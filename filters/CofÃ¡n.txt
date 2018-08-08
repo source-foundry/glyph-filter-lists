@@ -1,0 +1,18 @@
+// CofÃ¡n filter list
+// Copyright 2018 Source Foundry authors
+// MIT License
+//
+// Generated with data that were released by Underware
+// under a CC-by-4.0 license
+
+# U+00D1 | LATIN CAPITAL LETTER N WITH TILDE
+Ntilde
+
+# U+00F1 | LATIN SMALL LETTER N WITH TILDE
+ntilde
+
+# U+00DB | LATIN CAPITAL LETTER U WITH CIRCUMFLEX
+Ucircumflex
+
+# U+00FB | LATIN SMALL LETTER U WITH CIRCUMFLEX
+ucircumflex
