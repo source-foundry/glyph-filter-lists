@@ -1,0 +1,30 @@
+// Igbo filter list
+// Copyright 2018 Source Foundry authors
+// MIT License
+//
+// Generated with data that were released by Underware
+// under a CC-by-4.0 license
+
+# U+1ECA | uni1ECA | LATIN CAPITAL LETTER I WITH DOT BELOW
+Idotbelow
+
+# U+1ECB | uni1ECB | LATIN SMALL LETTER I WITH DOT BELOW
+idotbelow
+
+# U+00D1 | LATIN CAPITAL LETTER N WITH TILDE
+Ntilde
+
+# U+00F1 | LATIN SMALL LETTER N WITH TILDE
+ntilde
+
+# U+1ECC | uni1ECC | LATIN CAPITAL LETTER O WITH DOT BELOW
+Odotbelow
+
+# U+1ECD | uni1ECD | LATIN SMALL LETTER O WITH DOT BELOW
+odotbelow
+
+# U+1EE4 | uni1EE4 | LATIN CAPITAL LETTER U WITH DOT BELOW
+Udotbelow
+
+# U+1EE5 | uni1EE5 | LATIN SMALL LETTER U WITH DOT BELOW
+udotbelow
