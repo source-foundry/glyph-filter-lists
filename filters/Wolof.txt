@@ -1,0 +1,48 @@
+// Wolof filter list
+// Copyright 2018 Source Foundry authors
+// MIT License
+//
+// Generated with data that were released by Underware
+// under a CC-by-4.0 license
+
+# U+00C0 | LATIN CAPITAL LETTER A WITH GRAVE
+Agrave
+
+# U+00E0 | LATIN SMALL LETTER A WITH GRAVE
+agrave
+
+# U+00C3 | LATIN CAPITAL LETTER A WITH TILDE
+Atilde
+
+# U+00E3 | LATIN SMALL LETTER A WITH TILDE
+atilde
+
+# U+00C9 | LATIN CAPITAL LETTER E WITH ACUTE
+Eacute
+
+# U+00E9 | LATIN SMALL LETTER E WITH ACUTE
+eacute
+
+# U+00CB | LATIN CAPITAL LETTER E WITH DIAERESIS
+Edieresis
+
+# U+00EB | LATIN SMALL LETTER E WITH DIAERESIS
+edieresis
+
+# U+00D1 | LATIN CAPITAL LETTER N WITH TILDE
+Ntilde
+
+# U+00F1 | LATIN SMALL LETTER N WITH TILDE
+ntilde
+
+# U+014A | LATIN CAPITAL LETTER ENG
+Eng
+
+# U+014B | LATIN SMALL LETTER ENG
+eng
+
+# U+00D3 | LATIN CAPITAL LETTER O WITH ACUTE
+Oacute
+
+# U+00F3 | LATIN SMALL LETTER O WITH ACUTE
+oacute
