@@ -1,0 +1,36 @@
+// Romanian filter list
+// Copyright 2018 Source Foundry authors
+// MIT License
+//
+// Generated with data that were released by Underware
+// under a CC-by-4.0 license
+
+# U+00C2 | LATIN CAPITAL LETTER A WITH CIRCUMFLEX
+Acircumflex
+
+# U+00E2 | LATIN SMALL LETTER A WITH CIRCUMFLEX
+acircumflex
+
+# U+0102 | LATIN CAPITAL LETTER A WITH BREVE
+Abreve
+
+# U+0103 | LATIN SMALL LETTER A WITH BREVE
+abreve
+
+# U+00CE | LATIN CAPITAL LETTER I WITH CIRCUMFLEX
+Icircumflex
+
+# U+00EE | LATIN SMALL LETTER I WITH CIRCUMFLEX
+icircumflex
+
+# U+0218 | uni0218 | LATIN CAPITAL LETTER S WITH COMMA BELOW
+Scommaaccent
+
+# U+0219 | uni0219 | LATIN SMALL LETTER S WITH COMMA BELOW
+scommaaccent
+
+# U+021A | Tcommaaccent | LATIN CAPITAL LETTER T WITH COMMA BELOW
+uni021A
+
+# U+021B | tcommaaccent | LATIN SMALL LETTER T WITH COMMA BELOW
+uni021B
