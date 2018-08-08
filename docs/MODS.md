@@ -1,6 +1,6 @@
 ## Modifications
 
-The following data modifications were made as part of the work to include these definitions in this repository:
+The following data modifications were made as part of the work in this project:
 
 ### Google Fonts Core Unique (GF-Core-Unique.txt)
 
