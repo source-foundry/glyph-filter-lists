@@ -1,0 +1,12 @@
+// Creek filter list
+// Copyright 2018 Source Foundry authors
+// MIT License
+//
+// Generated with data that were released by Underware
+// under a CC-by-4.0 license
+
+# U+0112 | LATIN CAPITAL LETTER E WITH MACRON
+Emacron
+
+# U+0113 | LATIN SMALL LETTER E WITH MACRON
+emacron
