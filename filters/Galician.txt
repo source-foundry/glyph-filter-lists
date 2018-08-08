@@ -1,0 +1,48 @@
+// Galician filter list
+// Copyright 2018 Source Foundry authors
+// MIT License
+//
+// Generated with data that were released by Underware
+// under a CC-by-4.0 license
+
+# U+00C1 | LATIN CAPITAL LETTER A WITH ACUTE
+Aacute
+
+# U+00E1 | LATIN SMALL LETTER A WITH ACUTE
+aacute
+
+# U+00C9 | LATIN CAPITAL LETTER E WITH ACUTE
+Eacute
+
+# U+00E9 | LATIN SMALL LETTER E WITH ACUTE
+eacute
+
+# U+00CD | LATIN CAPITAL LETTER I WITH ACUTE
+Iacute
+
+# U+00ED | LATIN SMALL LETTER I WITH ACUTE
+iacute
+
+# U+00D1 | LATIN CAPITAL LETTER N WITH TILDE
+Ntilde
+
+# U+00F1 | LATIN SMALL LETTER N WITH TILDE
+ntilde
+
+# U+00D3 | LATIN CAPITAL LETTER O WITH ACUTE
+Oacute
+
+# U+00F3 | LATIN SMALL LETTER O WITH ACUTE
+oacute
+
+# U+00DA | LATIN CAPITAL LETTER U WITH ACUTE
+Uacute
+
+# U+00FA | LATIN SMALL LETTER U WITH ACUTE
+uacute
+
+# U+00DC | LATIN CAPITAL LETTER U WITH DIAERESIS
+Udieresis
+
+# U+00FC | LATIN SMALL LETTER U WITH DIAERESIS
+udieresis
