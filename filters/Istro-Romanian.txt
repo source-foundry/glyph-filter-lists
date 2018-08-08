@@ -1,0 +1,42 @@
+// Istro Romanian filter list
+// Copyright 2018 Source Foundry authors
+// MIT License
+//
+// Generated with data that were released by Underware
+// under a CC-by-4.0 license
+
+# U+00C5 | LATIN CAPITAL LETTER A WITH RING ABOVE
+Aring
+
+# U+00E5 | LATIN SMALL LETTER A WITH RING ABOVE
+aring
+
+# U+0102 | LATIN CAPITAL LETTER A WITH BREVE
+Abreve
+
+# U+0103 | LATIN SMALL LETTER A WITH BREVE
+abreve
+
+# U+013D | LATIN CAPITAL LETTER L WITH CARON
+Lcaron
+
+# U+013E | LATIN SMALL LETTER L WITH CARON
+lcaron
+
+# U+0143 | LATIN CAPITAL LETTER N WITH ACUTE
+Nacute
+
+# U+0144 | LATIN SMALL LETTER N WITH ACUTE
+nacute
+
+# U+0218 | uni0218 | LATIN CAPITAL LETTER S WITH COMMA BELOW
+Scommaaccent
+
+# U+0219 | uni0219 | LATIN SMALL LETTER S WITH COMMA BELOW
+scommaaccent
+
+# U+021A | Tcommaaccent | LATIN CAPITAL LETTER T WITH COMMA BELOW
+uni021A
+
+# U+021B | tcommaaccent | LATIN SMALL LETTER T WITH COMMA BELOW
+uni021B
