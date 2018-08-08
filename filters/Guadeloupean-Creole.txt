@@ -1,0 +1,24 @@
+// Guadeloupean Creole filter list
+// Copyright 2018 Source Foundry authors
+// MIT License
+//
+// Generated with data that were released by Underware
+// under a CC-by-4.0 license
+
+# U+00C9 | LATIN CAPITAL LETTER E WITH ACUTE
+Eacute
+
+# U+00E9 | LATIN SMALL LETTER E WITH ACUTE
+eacute
+
+# U+00C8 | LATIN CAPITAL LETTER E WITH GRAVE
+Egrave
+
+# U+00E8 | LATIN SMALL LETTER E WITH GRAVE
+egrave
+
+# U+00D2 | LATIN CAPITAL LETTER O WITH GRAVE
+Ograve
+
+# U+00F2 | LATIN SMALL LETTER O WITH GRAVE
+ograve
