@@ -1,0 +1,444 @@
+// Google Fonts Pro Unique filter list 
+// Copyright 2018 Source Foundry authors
+// MIT License
+//
+// Generated with data that were released by
+// Google Inc. under the Apache 2.0 License
+
+# U+02B9 | uni02B9 | MODIFIER LETTER PRIME
+primemod
+
+# U+02BA | uni02BA | MODIFIER LETTER DOUBLE PRIME
+doubleprimemod
+
+# U+02BB | uni02BB | MODIFIER LETTER TURNED COMMA
+commaturnedmod
+
+# U+02BE | uni02BE | MODIFIER LETTER RIGHT HALF RING
+ringhalfright
+
+# U+02BF | uni02BF | MODIFIER LETTER LEFT HALF RING
+ringhalfleft
+
+# U+02C8 | uni02C8 | MODIFIER LETTER VERTICAL LINE
+verticallinemod
+
+# U+02C9 | uni02C9 | MODIFIER LETTER MACRON
+firsttonechinese
+
+# U+02CA | uni02CA | MODIFIER LETTER ACUTE ACCENT
+secondtonechinese
+
+# U+02CB | uni02CB | MODIFIER LETTER GRAVE ACCENT
+fourthtonechinese
+
+# U+02CC | uni02CC | MODIFIER LETTER LOW VERTICAL LINE
+verticallinelowmod
+
+# U+03C0 | GREEK SMALL LETTER PI
+pi
+
+# U+1E08 | uni1E08 | LATIN CAPITAL LETTER C WITH CEDILLA AND ACUTE
+Ccedillaacute
+
+# U+1E09 | uni1E09 | LATIN SMALL LETTER C WITH CEDILLA AND ACUTE
+ccedillaacute
+
+# U+1E0C | uni1E0C | LATIN CAPITAL LETTER D WITH DOT BELOW
+Ddotbelow
+
+# U+1E0D | uni1E0D | LATIN SMALL LETTER D WITH DOT BELOW
+ddotbelow
+
+# U+1E0E | uni1E0E | LATIN CAPITAL LETTER D WITH LINE BELOW
+Dlinebelow
+
+# U+1E0F | uni1E0F | LATIN SMALL LETTER D WITH LINE BELOW
+dlinebelow
+
+# U+1E14 | uni1E14 | LATIN CAPITAL LETTER E WITH MACRON AND GRAVE
+Emacrongrave
+
+# U+1E15 | uni1E15 | LATIN SMALL LETTER E WITH MACRON AND GRAVE
+emacrongrave
+
+# U+1E16 | uni1E16 | LATIN CAPITAL LETTER E WITH MACRON AND ACUTE
+Emacronacute
+
+# U+1E17 | uni1E17 | LATIN SMALL LETTER E WITH MACRON AND ACUTE
+emacronacute
+
+# U+1E1C | uni1E1C | LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE
+Ecedillabreve
+
+# U+1E1D | uni1E1D | LATIN SMALL LETTER E WITH CEDILLA AND BREVE
+ecedillabreve
+
+# U+1E20 | uni1E20 | LATIN CAPITAL LETTER G WITH MACRON
+Gmacron
+
+# U+1E21 | uni1E21 | LATIN SMALL LETTER G WITH MACRON
+gmacron
+
+# U+1E24 | uni1E24 | LATIN CAPITAL LETTER H WITH DOT BELOW
+Hdotbelow
+
+# U+1E25 | uni1E25 | LATIN SMALL LETTER H WITH DOT BELOW
+hdotbelow
+
+# U+1E2A | uni1E2A | LATIN CAPITAL LETTER H WITH BREVE BELOW
+Hbrevebelow
+
+# U+1E2B | uni1E2B | LATIN SMALL LETTER H WITH BREVE BELOW
+hbrevebelow
+
+# U+1E2E | uni1E2E | LATIN CAPITAL LETTER I WITH DIAERESIS AND ACUTE
+Idieresisacute
+
+# U+1E2F | uni1E2F | LATIN SMALL LETTER I WITH DIAERESIS AND ACUTE
+idieresisacute
+
+# U+1E36 | uni1E36 | LATIN CAPITAL LETTER L WITH DOT BELOW
+Ldotbelow
+
+# U+1E37 | uni1E37 | LATIN SMALL LETTER L WITH DOT BELOW
+ldotbelow
+
+# U+1E3A | uni1E3A | LATIN CAPITAL LETTER L WITH LINE BELOW
+Llinebelow
+
+# U+1E3B | uni1E3B | LATIN SMALL LETTER L WITH LINE BELOW
+llinebelow
+
+# U+1E42 | uni1E42 | LATIN CAPITAL LETTER M WITH DOT BELOW
+Mdotbelow
+
+# U+1E43 | uni1E43 | LATIN SMALL LETTER M WITH DOT BELOW
+mdotbelow
+
+# U+1E44 | uni1E44 | LATIN CAPITAL LETTER N WITH DOT ABOVE
+Ndotaccent
+
+# U+1E45 | uni1E45 | LATIN SMALL LETTER N WITH DOT ABOVE
+ndotaccent
+
+# U+1E46 | uni1E46 | LATIN CAPITAL LETTER N WITH DOT BELOW
+Ndotbelow
+
+# U+1E47 | uni1E47 | LATIN SMALL LETTER N WITH DOT BELOW
+ndotbelow
+
+# U+1E48 | uni1E48 | LATIN CAPITAL LETTER N WITH LINE BELOW
+Nlinebelow
+
+# U+1E49 | uni1E49 | LATIN SMALL LETTER N WITH LINE BELOW
+nlinebelow
+
+# U+1E4C | uni1E4C | LATIN CAPITAL LETTER O WITH TILDE AND ACUTE
+Otildeacute
+
+# U+1E4D | uni1E4D | LATIN SMALL LETTER O WITH TILDE AND ACUTE
+otildeacute
+
+# U+1E4E | uni1E4E | LATIN CAPITAL LETTER O WITH TILDE AND DIAERESIS
+Otildedieresis
+
+# U+1E4F | uni1E4F | LATIN SMALL LETTER O WITH TILDE AND DIAERESIS
+otildedieresis
+
+# U+1E50 | uni1E50 | LATIN CAPITAL LETTER O WITH MACRON AND GRAVE
+Omacrongrave
+
+# U+1E51 | uni1E51 | LATIN SMALL LETTER O WITH MACRON AND GRAVE
+omacrongrave
+
+# U+1E52 | uni1E52 | LATIN CAPITAL LETTER O WITH MACRON AND ACUTE
+Omacronacute
+
+# U+1E53 | uni1E53 | LATIN SMALL LETTER O WITH MACRON AND ACUTE
+omacronacute
+
+# U+1E5A | uni1E5A | LATIN CAPITAL LETTER R WITH DOT BELOW
+Rdotbelow
+
+# U+1E5B | uni1E5B | LATIN SMALL LETTER R WITH DOT BELOW
+rdotbelow
+
+# U+1E5E | uni1E5E | LATIN CAPITAL LETTER R WITH LINE BELOW
+Rlinebelow
+
+# U+1E5F | uni1E5F | LATIN SMALL LETTER R WITH LINE BELOW
+rlinebelow
+
+# U+1E60 | uni1E60 | LATIN CAPITAL LETTER S WITH DOT ABOVE
+Sdotaccent
+
+# U+1E61 | uni1E61 | LATIN SMALL LETTER S WITH DOT ABOVE
+sdotaccent
+
+# U+1E62 | uni1E62 | LATIN CAPITAL LETTER S WITH DOT BELOW
+Sdotbelow
+
+# U+1E63 | uni1E63 | LATIN SMALL LETTER S WITH DOT BELOW
+sdotbelow
+
+# U+1E64 | uni1E64 | LATIN CAPITAL LETTER S WITH ACUTE AND DOT ABOVE
+Sacutedotaccent
+
+# U+1E65 | uni1E65 | LATIN SMALL LETTER S WITH ACUTE AND DOT ABOVE
+sacutedotaccent
+
+# U+1E66 | uni1E66 | LATIN CAPITAL LETTER S WITH CARON AND DOT ABOVE
+Scarondotaccent
+
+# U+1E67 | uni1E67 | LATIN SMALL LETTER S WITH CARON AND DOT ABOVE
+scarondotaccent
+
+# U+1E68 | uni1E68 | LATIN CAPITAL LETTER S WITH DOT BELOW AND DOT ABOVE
+Sdotbelowdotaccent
+
+# U+1E69 | uni1E69 | LATIN SMALL LETTER S WITH DOT BELOW AND DOT ABOVE
+sdotbelowdotaccent
+
+# U+1E6C | uni1E6C | LATIN CAPITAL LETTER T WITH DOT BELOW
+Tdotbelow
+
+# U+1E6D | uni1E6D | LATIN SMALL LETTER T WITH DOT BELOW
+tdotbelow
+
+# U+1E6E | uni1E6E | LATIN CAPITAL LETTER T WITH LINE BELOW
+Tlinebelow
+
+# U+1E6F | uni1E6F | LATIN SMALL LETTER T WITH LINE BELOW
+tlinebelow
+
+# U+1E78 | uni1E78 | LATIN CAPITAL LETTER U WITH TILDE AND ACUTE
+Utildeacute
+
+# U+1E79 | uni1E79 | LATIN SMALL LETTER U WITH TILDE AND ACUTE
+utildeacute
+
+# U+1E7A | uni1E7A | LATIN CAPITAL LETTER U WITH MACRON AND DIAERESIS
+Umacrondieresis
+
+# U+1E7B | uni1E7B | LATIN SMALL LETTER U WITH MACRON AND DIAERESIS
+umacrondieresis
+
+# U+1E8E | uni1E8E | LATIN CAPITAL LETTER Y WITH DOT ABOVE
+Ydotaccent
+
+# U+1E8F | uni1E8F | LATIN SMALL LETTER Y WITH DOT ABOVE
+ydotaccent
+
+# U+1E92 | uni1E92 | LATIN CAPITAL LETTER Z WITH DOT BELOW
+Zdotbelow
+
+# U+1E93 | uni1E93 | LATIN SMALL LETTER Z WITH DOT BELOW
+zdotbelow
+
+# U+1E97 | uni1E97 | LATIN SMALL LETTER T WITH DIAERESIS
+tdieresis
+
+# U+2007 | uni2007 | FIGURE SPACE
+figurespace
+
+# U+2008 | uni2008 | PUNCTUATION SPACE
+punctuationspace
+
+# U+2009 | uni2009 | THIN SPACE
+thinspace
+
+# U+200A | uni200A | HAIR SPACE
+hairspace
+
+# U+200B | uni200B | ZERO WIDTH SPACE
+zerowidthspace
+
+# U+2010 | uni2010 | HYPHEN
+hyphentwo
+
+# U+2012 | FIGURE DASH
+figuredash
+
+# U+2015 | uni2015 | HORIZONTAL BAR
+horizontalbar
+
+# U+2032 | PRIME
+minute
+
+# U+2033 | DOUBLE PRIME
+second
+
+# U+2070 | uni2070 | SUPERSCRIPT ZERO
+zerosuperior
+
+# U+2075 | uni2075 | SUPERSCRIPT FIVE
+fivesuperior
+
+# U+2076 | uni2076 | SUPERSCRIPT SIX
+sixsuperior
+
+# U+2077 | uni2077 | SUPERSCRIPT SEVEN
+sevensuperior
+
+# U+2078 | uni2078 | SUPERSCRIPT EIGHT
+eightsuperior
+
+# U+2079 | uni2079 | SUPERSCRIPT NINE
+ninesuperior
+
+# U+2080 | uni2080 | SUBSCRIPT ZERO
+zeroinferior
+
+# U+2081 | uni2081 | SUBSCRIPT ONE
+oneinferior
+
+# U+2082 | uni2082 | SUBSCRIPT TWO
+twoinferior
+
+# U+2083 | uni2083 | SUBSCRIPT THREE
+threeinferior
+
+# U+2084 | uni2084 | SUBSCRIPT FOUR
+fourinferior
+
+# U+2085 | uni2085 | SUBSCRIPT FIVE
+fiveinferior
+
+# U+2086 | uni2086 | SUBSCRIPT SIX
+sixinferior
+
+# U+2087 | uni2087 | SUBSCRIPT SEVEN
+seveninferior
+
+# U+2088 | uni2088 | SUBSCRIPT EIGHT
+eightinferior
+
+# U+2089 | uni2089 | SUBSCRIPT NINE
+nineinferior
+
+# U+2113 | uni2113 | SCRIPT SMALL L
+literSign
+
+# U+2126 | uni2126 | OHM SIGN
+Ohm
+
+# U+212E | ESTIMATED SYMBOL
+estimated
+
+# U+2202 | PARTIAL DIFFERENTIAL
+partialdiff
+
+# U+2205 | EMPTY SET
+emptyset
+
+# U+2206 | uni2206 | INCREMENT
+increment
+
+# U+220F | N-ARY PRODUCT
+product
+
+# U+2211 | N-ARY SUMMATION
+summation
+
+# U+221A | SQUARE ROOT
+radical
+
+# U+221E | INFINITY
+infinity
+
+# U+222B | INTEGRAL
+integral
+
+# U+25CA | LOZENGE
+lozenge
+
+#  | DIGIT DENUMERATOR ZERO
+zero.dnom
+
+#  | DIGIT DENUMERATOR ONE
+one.dnom
+
+#  | DIGIT DENUMERATOR TWO
+two.dnom
+
+#  | DIGIT DENUMERATOR THREE
+three.dnom
+
+#  | DIGIT DENUMERATOR FOUR
+four.dnom
+
+#  | DIGIT DENUMERATOR FIVE
+five.dnom
+
+#  | DIGIT DENUMERATOR SIX
+six.dnom
+
+#  | DIGIT DENUMERATOR SEVEN
+seven.dnom
+
+#  | DIGIT DENUMERATOR EIGHT
+eight.dnom
+
+#  | DIGIT DENUMERATOR NINE
+nine.dnom
+
+#  | DIGIT NUMERATOR ZERO
+zero.numr
+
+#  | DIGIT NUMERATOR ONE
+one.numr
+
+#  | DIGIT NUMERATOR TWO
+two.numr
+
+#  | DIGIT NUMERATOR THREE
+three.numr
+
+#  | DIGIT NUMERATOR FOUR
+four.numr
+
+#  | DIGIT NUMERATOR FIVE
+five.numr
+
+#  | DIGIT NUMERATOR SIX
+six.numr
+
+#  | DIGIT NUMERATOR SEVEN
+seven.numr
+
+#  | DIGIT NUMERATOR EIGHT
+eight.numr
+
+#  | DIGIT NUMERATOR NINE
+nine.numr
+
+#  | DIGIT NUMERATOR ZERO
+zero.subs
+
+#  | DIGIT NUMERATOR ONE
+one.subs
+
+#  | DIGIT NUMERATOR TWO
+two.subs
+
+#  | DIGIT NUMERATOR THREE
+three.subs
+
+#  | DIGIT NUMERATOR FOUR
+four.subs
+
+#  | DIGIT NUMERATOR FIVE
+five.subs
+
+#  | DIGIT NUMERATOR SIX
+six.subs
+
+#  | DIGIT NUMERATOR SEVEN
+seven.subs
+
+#  | DIGIT NUMERATOR EIGHT
+eight.subs
+
+#  | DIGIT NUMERATOR NINE
+nine.subs
