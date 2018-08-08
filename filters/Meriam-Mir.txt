@@ -1,0 +1,24 @@
+// Meriam Mir filter list
+// Copyright 2018 Source Foundry authors
+// MIT License
+//
+// Generated with data that were released by Underware
+// under a CC-by-4.0 license
+
+# U+00CC | LATIN CAPITAL LETTER I WITH GRAVE
+Igrave
+
+# U+00EC | LATIN SMALL LETTER I WITH GRAVE
+igrave
+
+# U+00D2 | LATIN CAPITAL LETTER O WITH GRAVE
+Ograve
+
+# U+00F2 | LATIN SMALL LETTER O WITH GRAVE
+ograve
+
+# U+00D9 | LATIN CAPITAL LETTER U WITH GRAVE
+Ugrave
+
+# U+00F9 | LATIN SMALL LETTER U WITH GRAVE
+ugrave
