@@ -1,0 +1,42 @@
+// Kaingang filter list
+// Copyright 2018 Source Foundry authors
+// MIT License
+//
+// Generated with data that were released by Underware
+// under a CC-by-4.0 license
+
+# U+00C1 | LATIN CAPITAL LETTER A WITH ACUTE
+Aacute
+
+# U+00E1 | LATIN SMALL LETTER A WITH ACUTE
+aacute
+
+# U+00C2 | LATIN CAPITAL LETTER A WITH CIRCUMFLEX
+Acircumflex
+
+# U+00E2 | LATIN SMALL LETTER A WITH CIRCUMFLEX
+acircumflex
+
+# U+00C9 | LATIN CAPITAL LETTER E WITH ACUTE
+Eacute
+
+# U+00E9 | LATIN SMALL LETTER E WITH ACUTE
+eacute
+
+# U+0128 | LATIN CAPITAL LETTER I WITH TILDE
+Itilde
+
+# U+0129 | LATIN SMALL LETTER I WITH TILDE
+itilde
+
+# U+00D3 | LATIN CAPITAL LETTER O WITH ACUTE
+Oacute
+
+# U+00F3 | LATIN SMALL LETTER O WITH ACUTE
+oacute
+
+# U+1EF8 | uni1EF8 | LATIN CAPITAL LETTER Y WITH TILDE
+Ytilde
+
+# U+1EF9 | uni1EF9 | LATIN SMALL LETTER Y WITH TILDE
+ytilde
