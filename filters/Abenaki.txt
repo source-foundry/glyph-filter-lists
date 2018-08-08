@@ -2,7 +2,7 @@
 // Copyright 2018 Source Foundry authors
 // MIT License
 //
-// Generated with data that was released by Underware
+// Generated with data that were released by Underware
 // under a CC-by-4.0 license
 
 # U+00D4 | LATIN CAPITAL LETTER O WITH CIRCUMFLEX
