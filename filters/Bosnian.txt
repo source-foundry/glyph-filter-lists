@@ -1,0 +1,36 @@
+// Bosnian filter list
+// Copyright 2018 Source Foundry authors
+// MIT License
+//
+// Generated with data that were released by Underware
+// under a CC-by-4.0 license
+
+# U+0106 | LATIN CAPITAL LETTER C WITH ACUTE
+Cacute
+
+# U+0107 | LATIN SMALL LETTER C WITH ACUTE
+cacute
+
+# U+010C | LATIN CAPITAL LETTER C WITH CARON
+Ccaron
+
+# U+010D | LATIN SMALL LETTER C WITH CARON
+ccaron
+
+# U+0110 | LATIN CAPITAL LETTER D WITH STROKE
+Dcroat
+
+# U+0111 | LATIN SMALL LETTER D WITH STROKE
+dcroat
+
+# U+0160 | LATIN CAPITAL LETTER S WITH CARON
+Scaron
+
+# U+0161 | LATIN SMALL LETTER S WITH CARON
+scaron
+
+# U+017D | LATIN CAPITAL LETTER Z WITH CARON
+Zcaron
+
+# U+017E | LATIN SMALL LETTER Z WITH CARON
+zcaron
