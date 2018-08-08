@@ -100,7 +100,3 @@ IJ
 
 # U+0133 | LATIN SMALL LIGATURE IJ
 ij
-
-IJacute
-
-ijacute
