@@ -1,0 +1,36 @@
+// Wallisian filter list
+// Copyright 2018 Source Foundry authors
+// MIT License
+//
+// Generated with data that were released by Underware
+// under a CC-by-4.0 license
+
+# U+0100 | LATIN CAPITAL LETTER A WITH MACRON
+Amacron
+
+# U+0101 | LATIN SMALL LETTER A WITH MACRON
+amacron
+
+# U+0112 | LATIN CAPITAL LETTER E WITH MACRON
+Emacron
+
+# U+0113 | LATIN SMALL LETTER E WITH MACRON
+emacron
+
+# U+012A | LATIN CAPITAL LETTER I WITH MACRON
+Imacron
+
+# U+012B | LATIN SMALL LETTER I WITH MACRON
+imacron
+
+# U+014C | LATIN CAPITAL LETTER O WITH MACRON
+Omacron
+
+# U+014D | LATIN SMALL LETTER O WITH MACRON
+omacron
+
+# U+016A | LATIN CAPITAL LETTER U WITH MACRON
+Umacron
+
+# U+016B | LATIN SMALL LETTER U WITH MACRON
+umacron
