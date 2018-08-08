@@ -1,0 +1,42 @@
+// Esperanto filter list
+// Copyright 2018 Source Foundry authors
+// MIT License
+//
+// Generated with data that were released by Underware
+// under a CC-by-4.0 license
+
+# U+0108 | LATIN CAPITAL LETTER C WITH CIRCUMFLEX
+Ccircumflex
+
+# U+0109 | LATIN SMALL LETTER C WITH CIRCUMFLEX
+ccircumflex
+
+# U+011C | LATIN CAPITAL LETTER G WITH CIRCUMFLEX
+Gcircumflex
+
+# U+011D | LATIN SMALL LETTER G WITH CIRCUMFLEX
+gcircumflex
+
+# U+0124 | LATIN CAPITAL LETTER H WITH CIRCUMFLEX
+Hcircumflex
+
+# U+0125 | LATIN SMALL LETTER H WITH CIRCUMFLEX
+hcircumflex
+
+# U+0134 | LATIN CAPITAL LETTER J WITH CIRCUMFLEX
+Jcircumflex
+
+# U+0135 | LATIN SMALL LETTER J WITH CIRCUMFLEX
+jcircumflex
+
+# U+015C | LATIN CAPITAL LETTER S WITH CIRCUMFLEX
+Scircumflex
+
+# U+015D | LATIN SMALL LETTER S WITH CIRCUMFLEX
+scircumflex
+
+# U+016C | LATIN CAPITAL LETTER U WITH BREVE
+Ubreve
+
+# U+016D | LATIN SMALL LETTER U WITH BREVE
+ubreve
