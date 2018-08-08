@@ -1,0 +1,18 @@
+// Zarma filter list
+// Copyright 2018 Source Foundry authors
+// MIT License
+//
+// Generated with data that were released by Underware
+// under a CC-by-4.0 license
+
+# U+014A | LATIN CAPITAL LETTER ENG
+Eng
+
+# U+014B | LATIN SMALL LETTER ENG
+eng
+
+# U+019D | uni019D | LATIN CAPITAL LETTER N WITH LEFT HOOK
+Nhookleft
+
+# U+0272 | uni0272 | LATIN SMALL LETTER N WITH LEFT HOOK
+nhookleft
