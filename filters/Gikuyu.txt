@@ -1,0 +1,24 @@
+// Gikuyu filter list
+// Copyright 2018 Source Foundry authors
+// MIT License
+//
+// Generated with data that were released by Underware
+// under a CC-by-4.0 license
+
+# U+0128 | LATIN CAPITAL LETTER I WITH TILDE
+Itilde
+
+# U+0129 | LATIN SMALL LETTER I WITH TILDE
+itilde
+
+# U+014A | LATIN CAPITAL LETTER ENG
+Eng
+
+# U+014B | LATIN SMALL LETTER ENG
+eng
+
+# U+0168 | LATIN CAPITAL LETTER U WITH TILDE
+Utilde
+
+# U+0169 | LATIN SMALL LETTER U WITH TILDE
+utilde
