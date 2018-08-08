@@ -1,0 +1,24 @@
+// Montagnais filter list
+// Copyright 2018 Source Foundry authors
+// MIT License
+//
+// Generated with data that were released by Underware
+// under a CC-by-4.0 license
+
+# U+00C2 | LATIN CAPITAL LETTER A WITH CIRCUMFLEX
+Acircumflex
+
+# U+00E2 | LATIN SMALL LETTER A WITH CIRCUMFLEX
+acircumflex
+
+# U+00CE | LATIN CAPITAL LETTER I WITH CIRCUMFLEX
+Icircumflex
+
+# U+00EE | LATIN SMALL LETTER I WITH CIRCUMFLEX
+icircumflex
+
+# U+00DB | LATIN CAPITAL LETTER U WITH CIRCUMFLEX
+Ucircumflex
+
+# U+00FB | LATIN SMALL LETTER U WITH CIRCUMFLEX
+ucircumflex
