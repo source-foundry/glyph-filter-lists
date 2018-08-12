@@ -19,7 +19,7 @@ The filter list files are found in the `filters` directory of this repository.
 
 ### Filter List File Formatting
 
-Filter lists are named by file name.  The filter list files are formatted as newline-delimited text files of glyph names.  The files include `//` and `#` symbols as comment delimiters immediately following the newline character for the previous line in the file.  
+The file name specifies the filter list name.  The filter list files are formatted as newline-delimited text files of glyph names.  The files include `//` and `#` symbols as comment delimiters immediately following the newline character for the previous line in the file.  
 
 The sections of the filter list files include:
 
