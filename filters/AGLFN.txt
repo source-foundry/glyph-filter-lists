@@ -1,4 +1,4 @@
-// Adobe Glyph List for New Fonts (AGLFN) filter list 
+// Adobe Glyph List for New Fonts v1.7 (AGLFN) filter list 
 // Copyright 2018 Source Foundry authors
 // MIT License
 //
