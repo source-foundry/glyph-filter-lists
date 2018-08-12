@@ -13,11 +13,79 @@ The Glyph Filter List repository contains a collection of over 100 character set
 - Underware
 - Unicode Consortium
 
+### Usage
+
+The filter list files are found in the `filters` directory of this repository.
+
+### Filter List File Formatting
+
+Filter lists are named by file name.  The filter list files are formatted as newline-delimited text files of glyph names.  The files include `//` and `#` symbols as comment delimiters immediately following the newline character for the previous line in the file.  
+
+The sections of the filter list files include:
+
+#### Header metadata
+
+The header metadata includes the name of the filter list and license information.
+
+#### Comment metadata
+
+Comment lines directly above glyph name lines include a combination of the following data as necessary and when available:
+
+- Unicode code point in hexadecimal format
+- production name
+- nice name
+- Unicode short description
+
+#### Glyph names
+
+AGL-style nice names are the default format used in the filter list files.
+
+An example of the standard formatting in the first several lines of the `filters/Latvian.txt` filter list provides a demonstration of the data sections documented above:
+
+```
+// Latvian filter list
+// Copyright 2018 Source Foundry authors
+// MIT License
+//
+// Generated with data that were released by Underware
+// under a CC-by-4.0 license
+
+# U+0100 | LATIN CAPITAL LETTER A WITH MACRON
+Amacron
+
+# U+0101 | LATIN SMALL LETTER A WITH MACRON
+amacron
+
+# U+010C | LATIN CAPITAL LETTER C WITH CARON
+Ccaron
+
+# U+010D | LATIN SMALL LETTER C WITH CARON
+ccaron
+
+# U+0112 | LATIN CAPITAL LETTER E WITH MACRON
+Emacron
+
+# U+0113 | LATIN SMALL LETTER E WITH MACRON
+emacron
+
+# U+0122 | uni0122 | LATIN CAPITAL LETTER G WITH CEDILLA
+Gcommaaccent
+
+# U+0123 | uni0123 | LATIN SMALL LETTER G WITH CEDILLA
+gcommaaccent
+```
+
 ### Use as Glyph Filter Lists with Font Editors
 
 #### Glyphs font editor
 
-The Glyphs font editor supports use of lists of glyph names as filters for new glyph creation, automated OpenType feature generation, and character set coverage determination.  The remote text files in this repository can be imported directly into the Glyphs editor as new glyph name filter lists with the free, open source [Filter List Manager (FLM) plugin](https://github.com/source-foundry/FilterListManager).  Instructions for use with the plugin are available on the project's README.md page.
+The Glyphs font editor supports use of lists of glyph names as filters for new glyph creation, automated OpenType feature generation, and character set coverage determination.  The remote text files in this repository can be imported directly into the Glyphs editor as new glyph name filter lists with the free, open source [Filter List Manager (FLM) plugin](https://github.com/source-foundry/FilterListManager).  You can learn how to specify your remote filter list definition files in [the FLM plugin documentation](https://github.com/source-foundry/FilterListManager#remote-definition-files).
+
+## Contributing
+
+Contributions to this project are welcomed.  We encourage the addition of new character sets and greatly appreciate feedback and error reports.
+
+Please open a new issue report if you have suggestions or identify any errors in the existing files.  Fork the Github repository and submit a pull request to propose contributions to the project source.  Please indicate the relevant upstream licensing for any new data that you propose as additions to this project.  Only OSI-approved free, open source licensed contributions are accepted in this project.
 
 ## Licenses
 
@@ -39,4 +107,4 @@ The Google Fonts glyph set source (including the Core, Plus, Pro, and Expert set
 
 ### Underware Latin Plus data
 
-The Underware Latin Plus source was released under the CC-by-4.0 license.  This MODS.md document serves as the description of modifications that have been made to the upstream Underware source file in order to address the "indicate if changes were made" provision in the CC-by-4.0 license.  The modified source files that are derived from Underware data are released in this repository under the MIT License.  You may find the upstream Underware data file on the repository path `data/Underware_Latin_Plus_Data_1.txt`.  The upstream CC-by-4.0 license can be found at https://creativecommons.org/licenses/by/4.0/. You may find the MIT License in the LICENSE file that is located in the root of this source repository.
+The Underware Latin Plus source was released under the CC-by-4.0 license.  The [docs/MODS.md](docs/MODS.md) document serves as the description of modifications that have been made to the upstream Underware source file in order to address the "indicate if changes were made" provision in the CC-by-4.0 license.  The modified source files that are derived from Underware data are released in this repository under the MIT License.  You may find the upstream Underware data file on the repository path `data/Underware_Latin_Plus_Data_1.txt`.  The upstream CC-by-4.0 license can be found at https://creativecommons.org/licenses/by/4.0/.
