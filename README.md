@@ -2,7 +2,7 @@
 
 ## About
 
-The Glyph Filter Lists repository contains over 100 character set lists that are released under free, open licenses.  The glyph name lists are formatted as newline-delimited, annotated text files that are intended for both human and computer use.  They have been compiled from a number of upstream data sources.
+The Glyph Filter Lists repository contains over 100 character set lists that are released under free, open licenses.  The glyph name lists are formatted as annotated, newline-delimited text files that are intended for both human and computer use.  They have been compiled from a number of upstream data sources.
 
 ## Data Sources
 
