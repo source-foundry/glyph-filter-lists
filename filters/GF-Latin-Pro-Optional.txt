@@ -1,6 +1,6 @@
 // Google Fonts Pro Optional filter list
 // Copyright 2018 Source Foundry authors
-// MIT License
+// Apache License 2.0
 //
 // Generated with data that were released by
 // Google Inc. under the Apache 2.0 License

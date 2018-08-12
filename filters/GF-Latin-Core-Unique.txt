@@ -1,9 +1,11 @@
 // Google Fonts Core Unique filter list
 // Copyright 2018 Source Foundry authors
-// MIT License
+// Apache License 2.0
 //
 // Generated with data that were released by
-// Google Inc. under the Apache 2.0 License
+// Google Inc. under the Apache 2.0 License.
+// The data have been modified as documented
+// in the file docs/MODS.md.
 
 #  | NULL
 .null
