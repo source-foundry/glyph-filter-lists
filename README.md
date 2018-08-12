@@ -1,10 +1,10 @@
-## Glyph Filter Lists
+# Glyph Filter Lists
 
-### About
+## About
 
 The Glyph Filter List repository contains over 100 character set lists that are released under free, open licenses.  The glyph name lists are formatted as newline-delimited, annotated text files that are intended for both human and computer use.  They have been compiled from a number of upstream data sources.
 
-### Data Sources
+## Data Sources
 
 - Adobe Inc.
 - Comité Européen de Normalisation
@@ -13,21 +13,21 @@ The Glyph Filter List repository contains over 100 character set lists that are 
 - Underware
 - Unicode Consortium
 
-### Usage
+## Usage
 
 The filter list files are found in the `filters` directory of this repository.
 
-### Filter List File Formatting
+## Filter List File Formatting
 
 The file name specifies the filter list name.  The filter list files are formatted as newline-delimited text files of glyph names.  The files include `//` and `#` symbols as comment delimiters immediately following the newline character for the previous line in the file.  The entire string through the next newline character is treated as a comment after these delimiters.
 
 The sections of the filter list files include:
 
-#### Header metadata
+### Header metadata
 
 The header metadata includes the name of the filter list and license information.
 
-#### Comment metadata
+### Comment metadata
 
 Comment lines directly above glyph name lines include a combination of the following data as necessary and when available:
 
@@ -36,7 +36,7 @@ Comment lines directly above glyph name lines include a combination of the follo
 - nice name
 - Unicode short description
 
-#### Glyph names
+### Glyph names
 
 AGL-style nice names are the default format used in the filter list files.
 
@@ -75,9 +75,9 @@ Gcommaaccent
 gcommaaccent
 ```
 
-### Use as Glyph Filter Lists with Font Editors
+## Use as Glyph Filter Lists with Font Editors
 
-#### Glyphs font editor
+### Glyphs font editor
 
 The Glyphs font editor supports use of lists of glyph names as filters for new glyph creation, automated OpenType feature generation, and character set coverage determination.  The remote text files in this repository can be imported directly into the Glyphs editor as new glyph name filter lists with the free, open source [Filter List Manager (FLM) plugin](https://github.com/source-foundry/FilterListManager).  You can learn how to specify your remote filter list definition files in [the FLM plugin documentation](https://github.com/source-foundry/FilterListManager#remote-definition-files).
 
