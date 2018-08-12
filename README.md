@@ -95,16 +95,16 @@ Upstream data used in this project were released under a variety of free, open l
 
 ### Adobe Glyph List for New Fonts data
 
-The Adobe AGLFN source was released under the BSD 3-clause license.  The modifications to the upstream source are released in this repository under the MIT License.  The BSD 3-clause license for the upstream source files can be found in the header of the upstream data file on the repository path `data/agfln.txt`.
+The Adobe AGLFN source is released under the BSD 3-clause license.  The modifications to the upstream source are released in this repository under the MIT License.  The BSD 3-clause license for the upstream source files can be found in the header of the upstream data file on the repository path `data/agfln.txt`.
 
 ### Glyphs application GlyphData.xml data
 
-The upstream GlyphData.xml source was released under the MIT license.  These data were used to supplement glyph name lists with supplemental metadata included in comments that are found on the lice preceding the glyph name line in most source files released in this repository.  The MIT License for the GlyphData.xml file can be found at https://github.com/schriftgestalt/GlyphsInfo/blob/master/LICENSE.
+The upstream GlyphData.xml source is released under the MIT license.  These data were used to supplement glyph name lists with supplemental metadata included in comments that are found on the lice preceding the glyph name line in most source files released in this repository.  The MIT License for the GlyphData.xml file can be found at https://github.com/schriftgestalt/GlyphsInfo/blob/master/LICENSE.
 
 ### Google Fonts data
 
-The Google Fonts glyph set source (including the Core, Plus, Pro, and Expert sets) was released under the Apache License 2.0.  The modifications to the upstream source are released in this repository under the Apache License 2.0.  The Apache License 2.0 for the upstream data can be found at https://github.com/googlefonts/gftools/blob/master/LICENSE
+The Google Fonts glyph set source (including the Core, Plus, Pro, and Expert sets) is released under the Apache License 2.0.  The modifications to the upstream source are released in this repository under the Apache License 2.0.  The Apache License 2.0 for the upstream data can be found at https://github.com/googlefonts/gftools/blob/master/LICENSE
 
 ### Underware Latin Plus data
 
-The Underware Latin Plus source was released under the CC-by-4.0 license.  The [docs/MODS.md](docs/MODS.md) document serves as the description of modifications that have been made to the upstream Underware source file in order to address the "indicate if changes were made" provision in the CC-by-4.0 license.  The modified source files that are derived from Underware data are released in this repository under the MIT License.  You may find the upstream Underware data file on the repository path `data/Underware_Latin_Plus_Data_1.txt`.  The upstream CC-by-4.0 license can be found at https://creativecommons.org/licenses/by/4.0/.
+The Underware Latin Plus source is released under the CC-by-4.0 license.  The [docs/MODS.md](docs/MODS.md) document serves as the description of modifications that have been made to the upstream Underware source file in order to address the "indicate if changes were made" provision in the CC-by-4.0 license.  The modified source files that are derived from Underware data are released in this repository under the MIT License.  You may find the upstream Underware data file on the repository path `data/Underware_Latin_Plus_Data_1.txt`.  The upstream CC-by-4.0 license can be found at https://creativecommons.org/licenses/by/4.0/.
