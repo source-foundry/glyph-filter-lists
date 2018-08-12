@@ -1,0 +1,12 @@
+// Indonesian filter list
+// Copyright 2018 Source Foundry authors
+// MIT License
+//
+// Generated with data that were released by Underware
+// under a CC-by-4.0 license
+
+# U+00C9 | LATIN CAPITAL LETTER E WITH ACUTE
+Eacute
+
+# U+00E9 | LATIN SMALL LETTER E WITH ACUTE
+eacute

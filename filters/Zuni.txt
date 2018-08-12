@@ -1,0 +1,12 @@
+// Zuni filter list
+// Copyright 2018 Source Foundry authors
+// MIT License
+//
+// Generated with data that were released by Underware
+// under a CC-by-4.0 license
+
+# U+0141 | LATIN CAPITAL LETTER L WITH STROKE
+Lslash
+
+# U+0142 | LATIN SMALL LETTER L WITH STROKE
+lslash

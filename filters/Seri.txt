@@ -1,0 +1,12 @@
+// Seri filter list
+// Copyright 2018 Source Foundry authors
+// MIT License
+//
+// Generated with data that were released by Underware
+// under a CC-by-4.0 license
+
+# U+00D6 | LATIN CAPITAL LETTER O WITH DIAERESIS
+Odieresis
+
+# U+00F6 | LATIN SMALL LETTER O WITH DIAERESIS
+odieresis

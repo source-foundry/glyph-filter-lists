@@ -1,0 +1,45 @@
+// OnÄ•ipÅt filter list
+// Copyright 2018 Source Foundry authors
+// MIT License
+//
+// Generated with data that were released by Underware
+// under a CC-by-4.0 license
+
+# U+1EA0 | uni1EA0 | LATIN CAPITAL LETTER A WITH DOT BELOW
+Adotbelow
+
+# U+1EA1 | uni1EA1 | LATIN SMALL LETTER A WITH DOT BELOW
+adotbelow
+
+# U+1EBC | uni1EBC | LATIN CAPITAL LETTER E WITH TILDE
+Etilde
+
+# U+1EBD | uni1EBD | LATIN SMALL LETTER E WITH TILDE
+etilde
+
+# U+0114 | LATIN CAPITAL LETTER E WITH BREVE
+Ebreve
+
+# U+0115 | LATIN SMALL LETTER E WITH BREVE
+ebreve
+
+# U+1EB8 | uni1EB8 | LATIN CAPITAL LETTER E WITH DOT BELOW
+Edotbelow
+
+# U+1EB9 | uni1EB9 | LATIN SMALL LETTER E WITH DOT BELOW
+edotbelow
+
+# U+0237 | uni0237 | LATIN SMALL LETTER DOTLESS J
+jdotless
+
+# U+014E | LATIN CAPITAL LETTER O WITH BREVE
+Obreve
+
+# U+014F | LATIN SMALL LETTER O WITH BREVE
+obreve
+
+# U+0162 | Tcedilla | LATIN CAPITAL LETTER T WITH CEDILLA
+uni0162
+
+# U+0163 | tcedilla | LATIN SMALL LETTER T WITH CEDILLA
+uni0163

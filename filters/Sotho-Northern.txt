@@ -1,0 +1,24 @@
+// Northern Sotho filter list
+// Copyright 2018 Source Foundry authors
+// MIT License
+//
+// Generated with data that were released by Underware
+// under a CC-by-4.0 license
+
+# U+00CA | LATIN CAPITAL LETTER E WITH CIRCUMFLEX
+Ecircumflex
+
+# U+00EA | LATIN SMALL LETTER E WITH CIRCUMFLEX
+ecircumflex
+
+# U+00D4 | LATIN CAPITAL LETTER O WITH CIRCUMFLEX
+Ocircumflex
+
+# U+00F4 | LATIN SMALL LETTER O WITH CIRCUMFLEX
+ocircumflex
+
+# U+0160 | LATIN CAPITAL LETTER S WITH CARON
+Scaron
+
+# U+0161 | LATIN SMALL LETTER S WITH CARON
+scaron

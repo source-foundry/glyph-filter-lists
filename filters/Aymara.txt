@@ -1,0 +1,30 @@
+// Aymara filter list
+// Copyright 2018 Source Foundry authors
+// MIT License
+//
+// Generated with data that were released by Underware
+// under a CC-by-4.0 license
+
+# U+00C4 | LATIN CAPITAL LETTER A WITH DIAERESIS
+Adieresis
+
+# U+00E4 | LATIN SMALL LETTER A WITH DIAERESIS
+adieresis
+
+# U+00CF | LATIN CAPITAL LETTER I WITH DIAERESIS
+Idieresis
+
+# U+00EF | LATIN SMALL LETTER I WITH DIAERESIS
+idieresis
+
+# U+00D1 | LATIN CAPITAL LETTER N WITH TILDE
+Ntilde
+
+# U+00F1 | LATIN SMALL LETTER N WITH TILDE
+ntilde
+
+# U+00DC | LATIN CAPITAL LETTER U WITH DIAERESIS
+Udieresis
+
+# U+00FC | LATIN SMALL LETTER U WITH DIAERESIS
+udieresis

@@ -1,0 +1,18 @@
+// Zapotec filter list
+// Copyright 2018 Source Foundry authors
+// MIT License
+//
+// Generated with data that were released by Underware
+// under a CC-by-4.0 license
+
+# U+00C1 | LATIN CAPITAL LETTER A WITH ACUTE
+Aacute
+
+# U+00E1 | LATIN SMALL LETTER A WITH ACUTE
+aacute
+
+# U+00D1 | LATIN CAPITAL LETTER N WITH TILDE
+Ntilde
+
+# U+00F1 | LATIN SMALL LETTER N WITH TILDE
+ntilde

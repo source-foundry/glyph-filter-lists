@@ -1,0 +1,42 @@
+// Zazaki filter list
+// Copyright 2018 Source Foundry authors
+// MIT License
+//
+// Generated with data that were released by Underware
+// under a CC-by-4.0 license
+
+# U+00C7 | LATIN CAPITAL LETTER C WITH CEDILLA
+Ccedilla
+
+# U+00E7 | LATIN SMALL LETTER C WITH CEDILLA
+ccedilla
+
+# U+00CA | LATIN CAPITAL LETTER E WITH CIRCUMFLEX
+Ecircumflex
+
+# U+00EA | LATIN SMALL LETTER E WITH CIRCUMFLEX
+ecircumflex
+
+# U+01E6 | LATIN CAPITAL LETTER G WITH CARON
+Gcaron
+
+# U+01E7 | LATIN SMALL LETTER G WITH CARON
+gcaron
+
+# U+0130 | LATIN CAPITAL LETTER I WITH DOT ABOVE
+Idotaccent
+
+# U+0131 | idotless | LATIN SMALL LETTER DOTLESS I
+dotlessi
+
+# U+015E | LATIN CAPITAL LETTER S WITH CEDILLA
+Scedilla
+
+# U+015F | LATIN SMALL LETTER S WITH CEDILLA
+scedilla
+
+# U+00DC | LATIN CAPITAL LETTER U WITH DIAERESIS
+Udieresis
+
+# U+00FC | LATIN SMALL LETTER U WITH DIAERESIS
+udieresis

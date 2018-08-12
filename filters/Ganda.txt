@@ -1,0 +1,12 @@
+// Ganda filter list
+// Copyright 2018 Source Foundry authors
+// MIT License
+//
+// Generated with data that were released by Underware
+// under a CC-by-4.0 license
+
+# U+014A | LATIN CAPITAL LETTER ENG
+Eng
+
+# U+014B | LATIN SMALL LETTER ENG
+eng

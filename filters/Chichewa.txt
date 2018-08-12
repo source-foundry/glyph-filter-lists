@@ -1,0 +1,18 @@
+// Chichewa filter list
+// Copyright 2018 Source Foundry authors
+// MIT License
+//
+// Generated with data that were released by Underware
+// under a CC-by-4.0 license
+
+# U+014A | LATIN CAPITAL LETTER ENG
+Eng
+
+# U+014B | LATIN SMALL LETTER ENG
+eng
+
+# U+0174 | LATIN CAPITAL LETTER W WITH CIRCUMFLEX
+Wcircumflex
+
+# U+0175 | LATIN SMALL LETTER W WITH CIRCUMFLEX
+wcircumflex

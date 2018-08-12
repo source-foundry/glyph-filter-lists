@@ -1,0 +1,44 @@
+// Google Fonts Pro Optional filter list
+// Copyright 2018 Source Foundry authors
+// Apache License 2.0
+//
+// Generated with data that were released by
+// Google Inc. under the Apache 2.0 License
+
+parenright.case
+hyphen.case
+slash.case
+at.case
+bracketleft.case
+backslash.case
+bracketright.case
+braceleft.case
+braceright.case
+guillemetleft.case
+periodcentered.case
+guillemetright.case
+endash.case
+emdash.case
+bullet.case
+guilsinglleft.case
+guilsinglright.case
+zero.sinf
+one.sinf
+two.sinf
+three.sinf
+four.sinf
+five.sinf
+six.sinf
+seven.sinf
+eight.sinf
+nine.sinf
+zero.sups
+one.sups
+two.sups
+three.sups
+four.sups
+five.sups
+six.sups
+seven.sups
+eight.sups
+nine.sups

@@ -1,0 +1,12 @@
+// Potawatomi filter list
+// Copyright 2018 Source Foundry authors
+// MIT License
+//
+// Generated with data that were released by Underware
+// under a CC-by-4.0 license
+
+# U+00C8 | LATIN CAPITAL LETTER E WITH GRAVE
+Egrave
+
+# U+00E8 | LATIN SMALL LETTER E WITH GRAVE
+egrave
