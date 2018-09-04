@@ -1082,8 +1082,8 @@ circumflex
 # U+02C7 | CARON
 caron
 
-# U+02C9 | firsttonechinese | MODIFIER LETTER MACRON
-uni02C9
+# U+02C9 | uni02C9 | MODIFIER LETTER MACRON
+firsttonechinese
 
 # U+02D8 | BREVE
 breve
