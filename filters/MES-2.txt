@@ -2798,8 +2798,8 @@ uni20AF
 # U+2105 | careof | CARE OF
 uni2105
 
-# U+2116 | numero | NUMERO SIGN
-uni2116
+# U+2116 | uni2116 | NUMERO SIGN
+numero
 
 # U+2122 | TRADE MARK SIGN
 trademark
