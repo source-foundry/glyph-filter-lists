@@ -38,5 +38,5 @@ udieresis
 # U+00DF | LATIN SMALL LETTER SHARP S
 germandbls
 
-# U+1E9E | Germandbls | LATIN CAPITAL LETTER SHARP S
-uni1E9E
+# U+1E9E | uni1E9E | LATIN CAPITAL LETTER SHARP S
+Germandbls
