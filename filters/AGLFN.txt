@@ -893,8 +893,8 @@ dotaccent
 # U+0323 | COMBINING DOT BELOW
 dotbelowcomb
 
-# U+0131 | idotless | LATIN SMALL LETTER DOTLESS I
-dotlessi
+# U+0131 | LATIN SMALL LETTER DOTLESS I
+idotless
 
 # U+22C5 | DOT OPERATOR
 dotmath

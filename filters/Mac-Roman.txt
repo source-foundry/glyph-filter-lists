@@ -693,8 +693,8 @@ Ucircumflex
 # U+00D9 | LATIN CAPITAL LETTER U WITH GRAVE
 Ugrave
 
-# U+0131 | idotless | LATIN SMALL LETTER DOTLESS I
-dotlessi
+# U+0131 | LATIN SMALL LETTER DOTLESS I
+idotless
 
 # U+02C6 | CIRCUMFLEX ACCENT
 circumflex
