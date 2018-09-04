@@ -58,6 +58,11 @@ The following glyph name modifications were made to the upstream source as part 
 - removed private use area code point glyph name `uniEFFD`
 - removed private use area code point glyph name`uniF000`
 
+
+### Google Fonts Latin Expert Unique Glyph Set (GF-Latin-Expert-Unique.txt)
+
+- removed `napostrophe.sc` as this was removed from the upstream data (see discussion in https://github.com/googlefonts/gftools/issues/69)
+
 ### Underware Latin-Plus Dutch Set (Dutch.txt)
 
 - removed invalid glyph name `ijacute`
