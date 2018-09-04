@@ -287,8 +287,8 @@ braceright
 # U+007E | TILDE
 asciitilde
 
-# U+00A0 | nbspace | NO-BREAK SPACE
-uni00A0
+# U+00A0 | uni00A0 | NO-BREAK SPACE
+nbspace
 
 # U+00A1 | INVERTED EXCLAMATION MARK
 exclamdown
