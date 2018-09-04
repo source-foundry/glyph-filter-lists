@@ -404,8 +404,8 @@ guillemotleft
 # U+00AC | NOT SIGN
 logicalnot
 
-# U+00AD | softhyphen | SOFT HYPHEN
-uni00AD
+# U+00AD | uni00AD | SOFT HYPHEN
+softhyphen
 
 # U+00AE | REGISTERED SIGN
 registered
