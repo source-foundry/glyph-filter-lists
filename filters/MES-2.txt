@@ -2867,8 +2867,8 @@ summation
 # U+2212 | MINUS SIGN
 minus
 
-# U+2219 | bulletoperator | BULLET OPERATOR
-uni2219
+# U+2219 | uni2219 | BULLET OPERATOR
+bulletoperator
 
 # U+221A | SQUARE ROOT
 radical
