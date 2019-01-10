@@ -8,7 +8,7 @@ The Glyph Filter Lists repository contains over 100 character set lists that are
 
 - Adobe Inc.
 - Comité Européen de Normalisation
-- Google Inc.
+- Google, LLC
 - Georg Seifert
 - Underware
 - Unicode Consortium
