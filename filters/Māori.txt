@@ -1,4 +1,4 @@
-// MÄori filter list
+// Māori filter list
 // Copyright 2018 Source Foundry authors
 // MIT License
 //
