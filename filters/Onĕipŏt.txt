@@ -1,4 +1,4 @@
-// OnÄ•ipÅt filter list
+// Onĕipŏt filter list
 // Copyright 2018 Source Foundry authors
 // MIT License
 //
