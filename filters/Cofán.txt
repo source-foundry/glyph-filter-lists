@@ -1,4 +1,4 @@
-// CofÃ¡n filter list
+// Cofán filter list
 // Copyright 2018 Source Foundry authors
 // MIT License
 //
