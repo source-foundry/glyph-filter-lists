@@ -1,4 +1,4 @@
-// VÃµro filter list
+// Võro filter list
 // Copyright 2018 Source Foundry authors
 // MIT License
 //
