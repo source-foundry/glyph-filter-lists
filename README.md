@@ -99,7 +99,7 @@ The Adobe AGLFN source is released under the BSD 3-clause license.  The modifica
 
 ### Glyphs application GlyphData.xml data
 
-The upstream GlyphData.xml source is released under the MIT license.  These data were used to supplement glyph name lists with supplemental metadata included in comments that are found on the lice preceding the glyph name line in most source files released in this repository.  The MIT License for the GlyphData.xml file can be found at https://github.com/schriftgestalt/GlyphsInfo/blob/master/LICENSE.
+The upstream GlyphData.xml source is released under the MIT license.  These data were used to supplement glyph name lists with supplemental metadata included in comments that are found on the line preceding the glyph name line in most source files released in this repository.  The MIT License for the GlyphData.xml file can be found at https://github.com/schriftgestalt/GlyphsInfo/blob/master/LICENSE.
 
 ### Google Fonts data
 
