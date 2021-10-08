@@ -1,0 +1,40 @@
+// Kazakh filter list
+// Copyright 2021 Source Foundry authors
+// MIT License
+// Data source: Eben Sorkin (https://github.com/source-foundry/glyph-filter-lists/issues/5)
+
+# U+00C1 | LATIN CAPITAL LETTER A WITH ACUTE
+Aacute
+
+# U+00E1 | LATIN SMALL LETTER A WITH ACUTE
+aacute
+
+# U+01F4 | uni01F4 | LATIN CAPITAL LETTER G WITH ACUTE
+Gacute
+
+# U+01F5 | uni01F5 | LATIN SMALL LETTER G WITH ACUTE
+gacute
+
+# U+0143 | LATIN CAPITAL LETTER N WITH ACUTE
+Nacute
+
+# U+0144 | LATIN SMALL LETTER N WITH ACUTE
+nacute
+
+# U+00D3 | LATIN CAPITAL LETTER O WITH ACUTE
+Oacute
+
+# U+00F3 | LATIN SMALL LETTER O WITH ACUTE
+oacute
+
+# U+00DA | LATIN CAPITAL LETTER U WITH ACUTE
+Uacute
+
+# U+00FA | LATIN SMALL LETTER U WITH ACUTE
+uacute
+
+# U+00DD | LATIN CAPITAL LETTER Y WITH ACUTE
+Yacute
+
+# U+00FD | LATIN SMALL LETTER Y WITH ACUTE
+yacute
