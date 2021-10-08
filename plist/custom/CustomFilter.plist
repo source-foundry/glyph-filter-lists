@@ -3927,6 +3927,25 @@
 	<dict>
 		<key>list</key>
 		<array>
+			<string>Aacute</string>
+			<string>aacute</string>
+			<string>Gacute</string>
+			<string>gacute</string>
+			<string>Nacute</string>
+			<string>nacute</string>
+			<string>Oacute</string>
+			<string>oacute</string>
+			<string>Uacute</string>
+			<string>uacute</string>
+			<string>Yacute</string>
+			<string>yacute</string>
+		</array>
+		<key>name</key>
+		<string>Kazakh</string>
+	</dict>
+	<dict>
+		<key>list</key>
+		<array>
 			<string>Amacron</string>
 			<string>amacron</string>
 			<string>Abreve</string>
