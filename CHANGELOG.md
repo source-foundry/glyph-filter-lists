@@ -1,5 +1,11 @@
 ## Changelog
 
+## v2.1.0
+
+- add pre-built Glyphs v2.x formatted CustomFilter.plist file with all filter list definitions for use in the Glyphs 2 editor
+- add Glyphs 2 CustomFilter.plist configuration generator script to update an existing Glyphs 2 CustomFilter.plist file with all filter list definitions in this repository
+- add default Glyphs 2 CustomFilter.plist configuration file (for backup after user edits)
+
 ## v2.0.1
 
 - fixed Unicode parsing errors in the path names of the Cofán, Māori, Onĕipŏt, and Võro filter lists (#3, thanks Micah!)
