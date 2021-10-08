@@ -1,5 +1,11 @@
 ## Changelog
 
+## v2.2.0
+
+- add Kazakh filter list
+- update Glyphs 2 CustomFilter.plist file definitions with Kazakh list
+- add Unicode data formatter script for filter list definition files
+
 ## v2.1.0
 
 - add pre-built Glyphs v2.x formatted CustomFilter.plist file with all filter list definitions for use in the Glyphs 2 editor
